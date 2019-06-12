@@ -1,7 +1,7 @@
 {
-  "name": "sequelize",
+  "name": "@ordermentum/sequelize",
   "description": "Multi dialect ORM for Node.JS",
-  "version": "0.0.0-development",
+  "version": "4.44.0-logging",
   "author": "Sascha Depold <sascha@depold.com>",
   "contributors": [
     {
